@@ -60,7 +60,7 @@
 </div>
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Whatdoyumin&theme=default" alt="GitHub Streak">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whatdoyumin&langs_count=10)](https://github.com/Whatdoyumin/github-readme-stats)
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ddalla107" alt="Baekjoon Tier">
 </div>
 
