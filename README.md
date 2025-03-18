@@ -55,11 +55,12 @@
 
 ## 🏅 Stats
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whatdoyumin&layout=compact&langs_count=10">
+    <a href="https://github.com/kimdavid0521/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whatdoyumin&langs_count=10">
+    </a>
     <img src="https://github-readme-stats.vercel.app/api?username=Whatdoyumin&show_icons=true">
 </div>
 
 <div align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ddalla107" alt="Baekjoon Tier">
 </div>
-
