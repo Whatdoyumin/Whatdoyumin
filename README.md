@@ -60,7 +60,3 @@
     </a>
     <img src="https://github-readme-stats.vercel.app/api?username=Whatdoyumin&show_icons=true">
 </div>
-
-<div align="center">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ddalla107" alt="Baekjoon Tier">
-</div>
