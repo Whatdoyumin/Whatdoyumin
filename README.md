@@ -72,7 +72,7 @@
 ## 📊 Stats
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://github.com/Whatdoyumin/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whatdoyumin&langs_count=10">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whatdoyumin&langs_count=10&layout=compact">
     </a>
     <img src="https://github-readme-stats.vercel.app/api?username=Whatdoyumin&show_icons=true">
 </div>
